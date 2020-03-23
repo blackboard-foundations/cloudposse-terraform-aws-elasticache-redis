@@ -44,6 +44,8 @@ badges:
 
 # Short description of this project
 description: |-
+## DEPRECATED - this module has moved to GitHub BLISS [github.com/blackboard-innersource/cloudposse-terraform-aws-elasticache-redis](https://github.com/blackboard-innersource/cloudposse-terraform-aws-elasticache-redis)
+
   Terraform module to provision an [`ElastiCache`](https://aws.amazon.com/elasticache/) Redis Cluster
 
 # How to use this project

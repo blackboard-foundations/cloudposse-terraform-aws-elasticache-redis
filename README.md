@@ -5,6 +5,7 @@
 
 # terraform-aws-elasticache-redis [![Codefresh Build Status](https://g.codefresh.io/api/badges/pipeline/cloudposse/terraform-modules%2Fterraform-aws-elasticache-redis?type=cf-1)](https://g.codefresh.io/public/accounts/cloudposse/pipelines/5d23a11695dc3006a29862e2) [![Latest Release](https://img.shields.io/github/release/cloudposse/terraform-aws-elasticache-redis.svg)](https://github.com/cloudposse/terraform-aws-elastic-beanstalk-environment/releases/latest) [![Slack Community](https://slack.cloudposse.com/badge.svg)](https://slack.cloudposse.com)
 
+## DEPRECATED - this module has moved to GitHub BLISS [github.com/blackboard-innersource/cloudposse-terraform-aws-elasticache-redis](https://github.com/blackboard-innersource/cloudposse-terraform-aws-elasticache-redis)
 
 Terraform module to provision an [`ElastiCache`](https://aws.amazon.com/elasticache/) Redis Cluster
 
